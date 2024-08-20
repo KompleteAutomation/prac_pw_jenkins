@@ -1,0 +1,5 @@
+[
+    {"username": "user1@user.com","password": "password", "toremember": true},
+    {"username": "user2@user.com","password": "password1","toremember": true},
+    {"username": "user3@user.com","password": "password2","toremember": true}        
+]                                                       

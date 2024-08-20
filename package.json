@@ -1,0 +1,20 @@
+{
+  "name": "prac_pr_ts_slk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test" :"npx playwright test ./tests/example.spec.ts --project chromium --workers 4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.2.0"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "moment": "^2.30.1"
+  }
+}
